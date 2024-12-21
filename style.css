@@ -1,0 +1,102 @@
+body {
+    font-family: cursive;
+}
+h1{
+    text-align: center;
+    color:aquamarine;
+    background-color: blue;
+}
+.img1 {
+ width: 200px;
+ height:200px;
+}
+p{
+    text-align: center;
+    width: 200px;
+    height: 400px;
+}
+nav{
+    text-align: center;
+}
+.img2{
+    width: 200px;
+ height:200px;
+}
+.left{
+    float:left;
+}
+.right{
+    float:right;
+}
+h2{
+    text-align: center;
+    background-color: gray;
+}
+p{
+    text-align: center;
+    background-color: gray;
+}
+a {
+    background-color: blue;
+    color: white;
+    margin:30px;
+    text-decoration: none;
+    font-size: 25px;
+}
+.b{
+width: 200px;
+ height:200px;
+}
+.c{
+width: 200px;
+height:200px;
+}
+.catalog{
+    display:flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+}
+.y{
+width: 200px;
+height:200px; 
+}
+.raet7{
+width: 200px;
+height:200px;  
+}
+.raet5{
+width: 200px;
+height:200px; 
+}
+.raet8{
+width: 200px;
+height:200px; 
+}
+.raet9{
+width: 200px;
+height:200px;
+}
+.raet10{
+width: 200px;
+height:200px;
+}
+.raet11{
+width: 200px;
+height:200px;
+}
+.raet12{
+width: 200px;
+height:200px;   
+}
+.raet13{
+width: 200px;
+height:200px;     
+}
+.raet14{
+width: 200px;
+height:200px;   
+}
+.raet15{
+width: 200px;
+height:200px;     
+}
